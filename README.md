@@ -1,16 +1,27 @@
-### Hi there 👋
 
-<!--
-**mintera10/mintera10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, My name is Aryashi Nanda 😄
 
-Here are some ideas to get you started:
+### About me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌏 I'm based in Bangalore, India
+- 🧠 I’m currently learning ML and Data Science 
+- 🤝  I'm open to collaborate on ML projects
+- 📫 You can reach me at : 📧 aryashi.nanda@gmail.com 
+- 😄 Pronouns: she/her
+- ⚡fun fact - I wanted to initially become a web developer but I got so interested in machine learning after a workshop and now here I am in this fascinating world of Machine Learning xD
+
+### Skills:
+[<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="60" height="60">](https://www.python.org/)
+[<img src ="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" height = "45" width ="70">](https://streamlit.io/)
+
+### 🔥My stats :
+
+
+<a href="http://www.github.com/mintera10"><img src="https://github-readme-stats.vercel.app/api?username=mintera10&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="mintera10's GitHub stats" /></a>
+
+<a href="http://www.github.com/mintera10"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mintera10&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+
+
+
+
