@@ -1,6 +1,8 @@
 
 ### Hi there 👋, My name is Aryashi Nanda 😄
 
+|| Machine Learning || Data Science || Pandas || NumPy || Scikit-Learn || Tensor-flow
+
 ### About me:
 
 - 🌏 I'm based in Bangalore, India
@@ -13,6 +15,7 @@
 ### Skills:
 [<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="60" height="60">](https://www.python.org/)
 [<img src ="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" height = "45" width ="70">](https://streamlit.io/)
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="40" alt="Git" /></a>
 
 ### 🔥My stats :
 
