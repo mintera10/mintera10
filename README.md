@@ -1,7 +1,7 @@
 
 # Hi there 👋, My name is Aryashi Nanda 😄
 
-### || Machine Learning || Data Science || Pandas || NumPy || Scikit-Learn || Tensor-flow
+### || Machine Learning || Data Science || Pandas || NumPy || Scikit-Learn || Tensor-flow || PyTorch
 ----------------------------------------------------------------------------------------------
 
 ### About me:
