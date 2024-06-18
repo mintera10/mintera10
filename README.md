@@ -17,7 +17,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="60" height="60">](https://www.python.org/)
 [<img src ="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" height = "45" width ="70">](https://streamlit.io/)
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
-[<img src ="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytorch/pytorch-original.svg">](https://pytorch.org/)
+[<img src ="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytorch/pytorch-original.svg" width="60" height="60">](https://pytorch.org/)
 
 
 ### 🔥My stats :
