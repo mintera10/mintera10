@@ -9,7 +9,6 @@
 - 🌏 I'm based in Bangalore, India
 - 🧠 I’m currently learning ML and Data Science 
 - 🤝  I'm open to collaborate on ML projects
-- 📫 You can reach me at : 📧 aryashi.nanda@gmail.com 
 - 😄 Pronouns: she/her
 - ⚡fun fact - I wanted to initially become a web developer but I got so interested in machine learning after a workshop and now here I am in this fascinating world of Machine Learning xD
 
@@ -24,6 +23,7 @@
 
 
 
+
 ### 🔥My stats :
 
 
@@ -35,7 +35,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aryashi-nanda-774000161/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/aryashi_nanda)
-
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aryashi.nanda@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/mintera_)
 
 
 
