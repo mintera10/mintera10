@@ -13,10 +13,12 @@
 - ⚡fun fact - I wanted to initially become a web developer but I got so interested in machine learning after a workshop and now here I am in this fascinating world of Machine Learning xD
 
 ### Skills:
-[<img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/python/python-original.svg" width="60" height="60">](https://www.python.org/)
-[<img src ="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png" height = "45" width ="70">](https://streamlit.io/)
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="50" height="50" alt="Python" /></a>
+<a href="https://streamlit.io/" target="_blank" rel="noreferrer"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="60" height="50" alt="streamlit" /></a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="40" height="40" alt="Git" /></a>
 [<img src ="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pytorch/pytorch-original.svg" width="60" height="55">](https://pytorch.org/)
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
 
 [<img src ="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/postgresql/postgresql-plain.svg" width="70" height="65">](https://www.postgresql.org/)
 [<img src ="https://www.valentina-db.com/images/valentinadbcore/5/valentinadbcore-538x400_s.png" width="70" height="65">](https://www.valentina-db.com/en)
