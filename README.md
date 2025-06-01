@@ -1,9 +1,11 @@
 
 # Hi there 👋, My name is Aryashi Nanda 😄
 
-### || 🤖 Machine Learning || 📊 Data Science || 🐼 Pandas || 🛠️ Scikit-Learn || ⚡ TensorFlow || 🔥 PyTorch || 🌐 Web Development ||
+### || Machine Learning || Data Science || Pandas || Scikit-Learn || TensorFlow || PyTorch || Web Development ||
+
 
 ----------------------------------------------------------------------------------------------
+
 
 
 ### About me:
@@ -23,6 +25,7 @@
 
 
 
+
 ### Skills:
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" alt="HTML5" />](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -34,6 +37,7 @@
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git" />](https://git-scm.com)
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40" alt="TensorFlow" />](https://www.tensorflow.org)
 [<img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" width="50" alt="Streamlit" />](https://streamlit.io)
+
 
 
 
